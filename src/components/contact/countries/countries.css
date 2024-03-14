@@ -1,0 +1,39 @@
+.country-container {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.message-text {
+    font-size: 24px;
+    font-family: var(--para);
+    width: 80%;
+    font-style: italic;
+}
+
+.countries {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.country-card {
+    flex: 25%;
+    margin-right: 20px;
+}
+
+.country-head {
+    height: 10px;
+    font-size: 16px;
+}
+
+.country-text {
+    height: 10px;
+    font-size: 12px;
+}
+
+.country-img {
+    width: 90%;
+    height: 200px;
+}
